@@ -1,0 +1,14 @@
+{
+    "name": "andre/small-talk-with-hexlet",
+    "description": "Small talk with Hexlet",
+    "authors": [
+        {
+            "name": "Andre302",
+            "email": "Andre302@k.ru"
+        }
+    ],
+    "bin": [
+	"./sayHi",
+	"./sayBue"
+	]
+}
