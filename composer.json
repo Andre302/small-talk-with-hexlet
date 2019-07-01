@@ -9,6 +9,6 @@
     ],
     "bin": [
 	"./sayHi",
-	"./sayBue"
+	"./sayBye"
 	]
 }
