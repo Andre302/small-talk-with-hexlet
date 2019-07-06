@@ -10,5 +10,8 @@
     "bin": [
 	"./sayHi",
 	"./sayBye"
-	]
+	],
+    "require-dev": {
+        "squizlabs/php_codesniffer": "*"
+    }
 }
