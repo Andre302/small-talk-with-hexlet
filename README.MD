@@ -1,1 +1,1 @@
-reply SayHi / sayBue Hexlet
+reply SayHi / sayBye Hexlet
